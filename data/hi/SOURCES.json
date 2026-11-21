@@ -1,0 +1,13 @@
+{
+  "text": {
+    "title": "इंडियन रिवाइज्ड वर्जन (IRV) हिंदी - 2019",
+    "english": "The Indian Revised Version Holy Bible in the Hindi language of India",
+    "copyright": "Copyright © 2017, 2018, 2019 Bridge Connectivity Solutions",
+    "licence": "Creative Commons Attribution Share-Alike 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source": "https://ebible.org/hin2017/",
+    "sourceDate": "source files dated 2023-04-11",
+    "changes": "The verse wording is unchanged. The book introductions, section headings, study notes and the cross-references the edition sets apart as notes are not shown (16 verses keep a reference printed inside the verse, as eBible.org’s own text does); the verses are laid out by Biblia. These changes are not endorsed by the original licensor."
+  },
+  "files": "The JSON files of this folder are the IRV verses as Biblia reads them, shared under the same licence (CC BY-SA 4.0)."
+}
